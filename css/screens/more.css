@@ -3,9 +3,8 @@
 }
 
 .more-suggestions {
-  margin-top: 50px;
   border-top: var(--main-border);
-  padding-top: 20px;
+  padding-top: 25px;
 }
 
 .more-suggestions__title {

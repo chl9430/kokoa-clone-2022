@@ -1,5 +1,4 @@
 .recommended-friends {
-  margin: 25px 0px;
   padding: 25px 0px;
   border-top: var(--main-border);
   border-bottom: var(--main-border);
@@ -22,7 +21,8 @@
   display: flex;
   justify-content: space-between;
   color: var(--gray);
-  margin-bottom: 25px;
+  margin-bottom: 30px;
+  padding-top: 25px;
 }
 
 .open-post {
